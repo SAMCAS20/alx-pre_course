@@ -1,1 +1,1 @@
-new
+Some text
